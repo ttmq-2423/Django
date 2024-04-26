@@ -1,6 +1,6 @@
 asgiref
 certifi
-charset-normalize
+charset-normalizer
 contourpy
 cycler
 Django
